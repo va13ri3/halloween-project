@@ -166,3 +166,60 @@ h2 {
 color: #8b44f1;
 transition: color 1s;
 }
+
+
+/* .sticker-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+} */
+.sticker {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 280px;
+  left: 200px;
+}
+
+.sticker1 {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 350px;
+  left: 210px;
+}
+
+.sticker2 {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 580px;
+  left: 200px;
+}
+
+.sticker3 {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 570px;
+  left: 1600px;
+    transform: rotate(70deg); 
+}
+
+.sticker4 {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 520px;
+  left: 1600px;
+    transform: rotate(70deg); 
+}
+.sticker5 {
+  position: absolute;
+  width: 100px; /* Adjust size */
+  z-index: 10;  /* Keeps it on top of other content */
+  top: 570px;
+  left: 1550px;
+    transform: rotate(70deg); 
+}
+/*top: 20px; left: 50px;
